@@ -19,10 +19,10 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6281356563739','6285298456576','6285298456576']
-global.premium = ['6285298456576']
-global.packname = '𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟'
-global.author = '𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟'
+global.owner = ['6287885765995','6287885765995','6285730794089']
+global.premium = ['6287885765995']
+global.packname = 'Zizz Attack'
+global.author = 'Zizz'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
